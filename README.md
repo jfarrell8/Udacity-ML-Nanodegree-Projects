@@ -1,5 +1,7 @@
 # Udacity-ML-Nanodegree-Projects
-# *Projects completed within the Udacity Machine Learning Nanodegree Program*
+
+# OVERVIEW
+This repository contains the two main projects completed during my Udacity Machine Learning Nanodegree Program. My additional final Capstone project on stock prediction is in a different repository [here](https://github.com/jfarrell8/Udacity-Machine-Learning-Capstone). Below I've detailed each project problem, and the general process about how I went to analyze each problem. Further details for each project can be found within their respective folders/Python notebooks.
 ________________________________________________________________________________
 ***Plagiarism Detector Project***
 
