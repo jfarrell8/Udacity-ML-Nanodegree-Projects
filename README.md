@@ -19,10 +19,9 @@ If the two texts have no n-grams in common, the containment will be 0, but if al
 **Longest Common Subsequence:**
 From Clough and Stevenson's paper, the longest common subsequence is the longest string of words (or letters) that are the same between the Wikipedia Source Text (S) and the Student Answer Text (A). This value is also normalized by dividing by the total number of words (or letters) in the Student Answer Text.
 
-There are three notebooks in this project:
-1. Data exploration
-2. Building features to train the model on: Containment and LCS
-3. Train the model and evaluate
+There are two notebooks in this project:
+1. Building features to train the model on: Containment and LCS
+2. Train the model and evaluate
 
 ______________________________________________________________________________________
 
